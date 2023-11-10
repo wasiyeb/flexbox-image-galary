@@ -40,15 +40,12 @@ h1 {
   }
 
 
-.right-nav-container {
-	
+.right-nav-container {	
 	display: flex;
 	justify-content: flex-end;
 	gap: 15px;
-	font-family: 'Sail', cursive;
 	font-size: 1.5em;
-	width: 400px;
-	box-shadow: 4px 4px 5 px #888888;
+	width: 600px;
 	margin-top: 20px;
 }
 
@@ -78,6 +75,6 @@ img {
 }
 
 img:hover {
-	transform:  scale(1.25);
+	transform:  scale(1.1);
 	/* animation: ; */
 }
