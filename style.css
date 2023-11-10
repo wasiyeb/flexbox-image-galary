@@ -26,7 +26,7 @@ h1 {
 	font-family: 'Sail', cursive;
 	font-size: 2em;
 	border-bottom: 2px solid pink;
-	border-right: 2px solid pink;
+	/* border-right: 2px solid pink; */
 	width: 400px;
 	text-align: center;
 	box-shadow: 4px 4px 5 px #888888;
@@ -64,7 +64,7 @@ h1 {
   }
 
   #register {
-    border: 2px solid pink;
+    border: 2px solid rgb(124, 144, 145);
 	width: 120px;
 	text-align: center;
     border-radius: 5px;
